@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>L3 ENI student  passionate about frontend (React & Next.js). Seeking internship to build user-friendly apps & collaborate with awesome devs! 
+<br>Master's student in Computer Science 
 
 
 ## 🌐 Socials:
