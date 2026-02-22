@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Rajo Stelly — a Master's student in Computer Science and a passionate Fullstack Developer. I specialize in building modern web and mobile applications.
-
+I'm Rajo Stelly — a Software and Database Engineer, passionate about building useful products as a Full-Stack Developer.
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/Madagascar/rajostelly)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajostelly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajostelly@gmail.com) 
