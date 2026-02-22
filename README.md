@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Rajo Stelly — a Software and Database Engineer, passionate about building useful products as a Full-Stack Developer.
+
 [![committers.top badge](https://user-badge.committers.top/madagascar_private/rajostelly.svg)](https://user-badge.committers.top/madagascar_private/rajostelly)
 
 ## 🌐 Socials:
